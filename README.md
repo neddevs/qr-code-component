@@ -17,10 +17,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![](./qr-code-component.png)
-
+![](./qr-code-component_desktop_version.png)
+![](./qr-code-component_mobile_version.jpg)
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/nedjemcaven/qr-code-component)
 
 ## My process
 
@@ -41,7 +41,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 - Name - [Khyaati Sharma]
-- Frontend Mentor Account- [@nedjemcaven](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor Account- [@nedjemcaven](https://www.frontendmentor.io/profile/nedjemcaven)
 
 ## Acknowledgments
 Glad to have tried out developing this tiny qr code scanner component!  

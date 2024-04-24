@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
-- Google Font APIs
+- Flexbox tools
 
 ### What I learned
 I revised the workflow of building responsive website using HTML5 and CSS. Helped me recall the usage of basic CSS properties like border-radius and padding, and reinforce my knowledge. 
